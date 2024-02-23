@@ -1,6 +1,6 @@
 # Session 5 Assignment
 
-This assignemt is for classification of digit in MNIST dataset
+This assignment is for classification of digit in MNIST dataset
 
 ##  Installation
 
