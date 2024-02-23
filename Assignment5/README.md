@@ -11,7 +11,7 @@ conda install pytorch torchvision -c pytorch
 
 ## Usage
 
-*Load the S5.ipynb file in the Jupyter notebook or Google colab*
+**Load the S5.ipynb file in the Jupyter notebook or Google colab**
 
 Run each block in the notebook.
 
@@ -19,4 +19,4 @@ Finally you have model which can clssify digits in MNIST dataset
 
 ## Author
 
-*Yeswanth
+**Yeswanth**
