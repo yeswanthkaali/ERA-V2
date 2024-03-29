@@ -20,6 +20,12 @@ we have used dilated convolution in the first layer to increase the rf in the fi
 
 we have used depth wise seperable convolution in the third convolution block
 
+## Training Summary
+
+1. parameters - 199,264
+2. Best Training accuracy - 76.21
+3. Best Test accuracy - 83.71
+
 
 
 ## Author
