@@ -10,12 +10,12 @@ This assignment is for classification of cisfar10 dataset by using three normali
 ## Batch Normalization
 In this code we have used Batch normalization
 #### Result
-1. parameters - 5,450
-2. Best Training accuracy - 99.19
-3. Best Test accuracy - 99.06
+1. parameters - 48,424
+2. Best Training accuracy - 79.21
+3. Best Test accuracy - 77.81
 
 ### Misclassified images
-![Batch norm](Group_norm.png)
+![Batch norm](batch_norm.png)
 
 
 ## Group Normalization
@@ -34,12 +34,12 @@ In this code we have used Batch normalization
 
 In this code we have used Batch normalization
 #### Result
-1. parameters - 5,450
-2. Best Training accuracy - 99.19
-3. Best Test accuracy - 99.06
+1. parameters - 51,877
+2. Best Training accuracy - 56
+3. Best Test accuracy - 56
 
 ### Misclassified images
-![Layer Norm](Group_norm.png)
+![Layer Norm](layer_norm.png)
 
 
 
