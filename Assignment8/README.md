@@ -1,21 +1,47 @@
-# Session 5 Assignment
+# Session 8 Assignment
 
-This assignment is for classification of digit in MNIST dataset and following steps
+This assignment is for classification of cisfar10 dataset by using three normalization techniques
+1. Batch Normalization
+2. Layer Normalization
+3. Group Normalization
 
-##  Installation
 
-```bash
-conda install pytorch torchvision -c pytorch
-```
-* Donot Forget to check for GPU in the machine else the program might run slow
 
-## Usage
+## Batch Normalization
+In this code we have used Batch normalization
+#### Result
+1. parameters - 5,450
+2. Best Training accuracy - 99.19
+3. Best Test accuracy - 99.06
 
-**Load the S5.ipynb file in the Jupyter notebook or Google colab**
+### Misclassified images
+![Batch norm](Group_norm.png)
 
-Run each block in the notebook.
 
-Finally you have model which can clssify digits in MNIST dataset
+## Group Normalization
+
+In this code we have used Batch normalization
+#### Result
+1. parameters - 48,424
+2. Best Training accuracy - 75%
+3. Best Test accuracy - 72%
+
+### Misclassified images
+![Group Norm](Group_norm.png)
+
+
+## Layer Normalization
+
+In this code we have used Batch normalization
+#### Result
+1. parameters - 5,450
+2. Best Training accuracy - 99.19
+3. Best Test accuracy - 99.06
+
+### Misclassified images
+![Layer Norm](Group_norm.png)
+
+
 
 ## Author
 
