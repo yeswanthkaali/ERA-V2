@@ -24,6 +24,7 @@ LRMAX=0.00368
 3. Best Test accuracy - 83.71
 
 ## Hugging face space
+https://huggingface.co/spaces/yeswantht/erav2s13
 
 
 
